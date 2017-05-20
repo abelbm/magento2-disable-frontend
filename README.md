@@ -1,5 +1,5 @@
-## Disable Frontend in Magneto 2
-Disable the frontend in Magneto 2 for using only the Admin and the API routes.
+## Disable Frontend in Magento 2
+Disable the frontend in Magento 2 for using only the Admin and the API routes.
 
 #### 1 - Installation Disable Frontend
 
@@ -15,7 +15,7 @@ Install Disable Frontend for Magento2
 ##### Using Composer
 
 ```
-composer require abelbm/magneto2-disablefrontend
+composer require abelbm/magento2-disablefrontend
 ```
 
 #### 2 - Enable Disable Frontend
