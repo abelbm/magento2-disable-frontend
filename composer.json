@@ -3,15 +3,16 @@
     "description": "Disable Frontend",
     "keywords": [
         "magento 2",
-        "Disable",
-        "Frontend",
-        "Disable Frontend Magento 2"
+        "disable",
+        "frontend",
+        "disable frontend magento 2",
+        "magento2"
     ],
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0"
     },
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "license": [
         "AGPL-3.0"
     ],
