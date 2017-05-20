@@ -15,7 +15,7 @@ Install Disable Frontend for Magento2
 ##### Using Composer
 
 ```
-composer require abelbm/disablefrontend:dev-master
+composer require abelbm/magneto2-disablefrontend:1.0.2
 ```
 
 #### 2 - Enable Disable Frontend
