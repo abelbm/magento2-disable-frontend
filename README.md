@@ -24,3 +24,8 @@ composer require abelbm/magento2-disablefrontend
  * php bin/magento setup:upgrade
  * php bin/magento cache:flush
  * php bin/magento setup:di:compile
+ 
+ #### 3 - Change the frontend redirect
+ 
+ Stores > Configuration > Advanced > Admin > Disable Frontend
+ 
