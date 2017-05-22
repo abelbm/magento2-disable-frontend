@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <section id="admin">
+            <group id="disable_frontend" translate="label" type="text" sortOrder="9999" showInDefault="1" showInWebsite="0" showInStore="0">
+                <label>Disable Frontend</label>
+                <field id="show_as_frontend" translate="label" type="select" sortOrder="1" showInDefault="1" showInWebsite="0" showInStore="0">
+                    <label>Show frontend as</label>
+                    <source_model>Abelbm\DisableFrontend\Model\Config\Source\Custom</source_model>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>
